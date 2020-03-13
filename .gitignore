@@ -1,0 +1,7 @@
+_layouts
+_site
+.sass-cache
+assets
+preview
+Gemfile
+Gemfile.lock
