@@ -1,8 +1,8 @@
 {
   "name": "opensource-254",
   "version": "1.0.0",
-  "description": "official website for opensource254",
-  "author": "Stanley Masinde",
+  "description": "official website for opensource254. (made in Kenya)",
+  "author": "Opensource 254",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -11,7 +11,7 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "test": "jest",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    "deploy": "push-dir --dir=dist --branch=master --cleanup"
   },
   "dependencies": {
     "nuxt": "^2.0.0",
