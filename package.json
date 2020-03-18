@@ -20,7 +20,7 @@
     "bootstrap-vue": "^2.0.0",
     "bufferutil": "^4.0.1",
     "express": "^4.17.1",
-    "jquery": "^1.9.1",
+    "jquery": "^3.4.0",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
