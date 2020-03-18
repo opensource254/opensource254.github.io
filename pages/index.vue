@@ -10,7 +10,10 @@
       <h1 class="title">opensource-254</h1>
       <h2 class="subtitle">official website for opensource254</h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green"
+        <a
+          href="https://github.com/Opensource-254"
+          target="_blank"
+          class="button--green"
           >Join Us</a
         >
       </div>
