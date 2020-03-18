@@ -1,3 +1,4 @@
+![Node.js CI](https://github.com/Opensource-254/Opensource-254.github.io/workflows/Node.js%20CI/badge.svg)
 # opensource-254
 
 > official website for opensource254
