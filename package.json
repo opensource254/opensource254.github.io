@@ -1,6 +1,6 @@
 {
   "name": "opensource-254",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "official website for opensource254. (made in Kenya)",
   "author": "Opensource 254",
   "private": true,
@@ -18,18 +18,8 @@
     "@nuxtjs/pwa": "^3.0.0-0",
     "bootstrap": "^4.1.3",
     "bootstrap-vue": "^2.0.0",
-<<<<<<< HEAD
-    "bufferutil": "^4.0.1",
-    "canvas": "^2.6.1",
-    "express": "^4.17.1",
-    "jquery": "^3.4.1",
-    "nuxt": "^2.0.0",
-    "typescript": "^3.8.3",
-    "utf-8-validate": "^5.0.2"
-=======
     "express": "^4.17.1",
     "nuxt": "^2.0.0"
->>>>>>> 1dc9f5fc5f1923c5e5b400846c4a017d327beac2
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",
@@ -43,11 +33,7 @@
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-nuxt": ">=0.4.2",
     "eslint-plugin-prettier": "^3.1.2",
-<<<<<<< HEAD
-    "jest": "^24.9.0",
-=======
     "jest": "^24.1.0",
->>>>>>> 1dc9f5fc5f1923c5e5b400846c4a017d327beac2
     "prettier": "^1.19.1",
     "stylelint": "^10.1.0",
     "vue-jest": "^4.0.0-0"
