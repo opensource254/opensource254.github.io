@@ -7,14 +7,20 @@
         src="/logo.png"
         class="mx-auto img-fluid"
       ></b-img>
-      <h1 class="title">opensource-254</h1>
+      <h2 class="title">opensource254</h2>
       <h2 class="subtitle">official website for opensource254</h2>
       <div class="links">
         <a
-          href="https://github.com/Opensource-254"
+          href="https://github.com/Opensource254"
           target="_blank"
           class="button--green"
-          >Join Us</a
+          >Github</a
+        >
+        <a
+          href="https://join.slack.com/t/opensource254/shared_invite/zt-dfkd2h0m-zWzQn8WSeYoUICl3GNOncw"
+          target="_blank"
+          class="button--primary"
+          >Slack</a
         >
       </div>
     </div>
