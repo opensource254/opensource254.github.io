@@ -7,19 +7,20 @@
         src="/logo.png"
         class="mx-auto img-fluid"
       ></b-img>
-      <h2 class="title">opensource254</h2>
-      <h2 class="subtitle">official website for opensource254</h2>
+      <h1 class="title">
+        open<span class="green-color">source</span><span class="red">254</span>
+      </h1>
       <div class="links">
         <a
           href="https://github.com/Opensource254"
           target="_blank"
-          class="button--green"
+          class="btn btn-outline-primary btn-lg"
           >Github</a
         >
         <a
           href="https://join.slack.com/t/opensource254/shared_invite/zt-dfkd2h0m-zWzQn8WSeYoUICl3GNOncw"
           target="_blank"
-          class="button--primary"
+          class="btn btn-outline-secondary btn-lg"
           >Slack</a
         >
       </div>
@@ -34,6 +35,12 @@ export default {
 </script>
 
 <style>
+.red {
+  color: #ff0000;
+}
+.green-color {
+  color: #00ff4c;
+}
 .container {
   margin: 0 auto;
   min-height: 100vh;
@@ -44,12 +51,12 @@ export default {
 }
 
 .title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Ubuntu', 'Quicksand', 'Source Sans Pro', -apple-system,
+    BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
-  font-weight: 300;
-  font-size: 70px;
-  color: #35495e;
+  font-weight: 500;
+  font-size: 45px;
+  color: #080808;
   letter-spacing: 1px;
 }
 
