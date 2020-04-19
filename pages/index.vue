@@ -4,7 +4,7 @@
       <b-img
         height="300"
         width="300"
-        src="/logo.png"
+        src="/icon.png"
         class="mx-auto img-fluid"
       ></b-img>
       <h1 class="title">
