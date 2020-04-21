@@ -1,4 +1,4 @@
-![Node.js CI](https://github.com/Opensource-254/Opensource-254.github.io/workflows/Node.js%20CI/badge.svg)
+![Node.js CI](https://github.com/Opensource-254/Opensource-254.github.io/workflows/Node.js%20CI/badge.svg)   [![Gitter](https://badges.gitter.im/opensource-254/community.svg)](https://gitter.im/opensource-254/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # opensource254
 
 > official website for opensource254
