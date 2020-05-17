@@ -3,6 +3,19 @@
 
 > official website for opensource254
 
+## Reguirements for Debian
+```
+# You are required to add Node.js PPA to your system provided by the Nodejs official website. We also need to install the software-properties-common package if not installed already
+
+$  sudo apt-get install curl software-properties-common
+$   curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
+
+
+# After adding the required PPA file lets install Nodejs package. NPM will also be installed with node.js. This command will also install many other dependent packages on your system.
+
+$ sudo apt-get install nodejs
+
+```
 ## Build Setup For this repo
 
 ```bash
