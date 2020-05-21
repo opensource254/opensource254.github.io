@@ -18,7 +18,7 @@
           >Github</a
         >
         <a
-          href="https://join.slack.com/t/opensource254/shared_invite/zt-dfkd2h0m-zWzQn8WSeYoUICl3GNOncw"
+          href="https://join.slack.com/t/opensource254/shared_invite/zt-ehsd5mb6-Dm5QVTkErOd6UvbaAYGDiw"
           target="_blank"
           class="btn btn-outline-secondary btn-lg"
           >Slack</a
