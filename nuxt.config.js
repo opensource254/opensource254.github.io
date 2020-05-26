@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   mode: 'universal',
   server: {
     port: 3002,

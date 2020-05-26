@@ -1,46 +1,42 @@
 <template>
   <div class="container">
     <div>
-      <b-img
-        height="300"
-        width="300"
-        src="/icon.png"
-        class="mx-auto img-fluid"
-      ></b-img>
+      <logo />
       <h1 class="title">
-        open<span class="green-color">source</span><span class="red">254</span>
+        opensource254
       </h1>
+      <h2 class="subtitle">
+        Welcome to opensource254. We are about the Kenyan techie interested in
+        contributing to opensource and other projects. We give you a chance to
+        increase your collaboration skills. Visit our about page for more.
+      </h2>
       <div class="links">
+        <a href="https://nuxtjs.org/" target="_blank" class="button--green">
+          Documentation
+        </a>
         <a
-          href="https://github.com/Opensource254"
+          href="https://github.com/nuxt/nuxt.js"
           target="_blank"
-          class="btn btn-outline-primary btn-lg"
-          >Github</a
+          class="button--grey"
         >
-        <a
-          href="https://join.slack.com/t/opensource254/shared_invite/zt-ehsd5mb6-Dm5QVTkErOd6UvbaAYGDiw"
-          target="_blank"
-          class="btn btn-outline-secondary btn-lg"
-          >Slack</a
-        >
+          GitHub
+        </a>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import Logo from '~/components/Logo.vue'
+
 export default {
-  components: {}
+  components: {
+    Logo
+  }
 }
 </script>
 
 <style>
-.red {
-  color: #ff0000;
-}
-.green-color {
-  color: #00ff4c;
-}
 .container {
   margin: 0 auto;
   min-height: 100vh;
@@ -51,12 +47,12 @@ export default {
 }
 
 .title {
-  font-family: 'Ubuntu', 'Quicksand', 'Source Sans Pro', -apple-system,
-    BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
-  font-weight: 500;
-  font-size: 45px;
-  color: #080808;
+  font-weight: 300;
+  font-size: 100px;
+  color: #35495e;
   letter-spacing: 1px;
 }
 
