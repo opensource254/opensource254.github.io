@@ -6,8 +6,9 @@
       <div class="intro">
         <h2 class="text-center">About us</h2>
         <p class="text-center">
-          Nunc luctus in metus eget fringilla. Aliquam sed justo ligula.
-          Vestibulum nibh erat, pellentesque ut laoreet vitae.
+          We are about the Kenyan techie interested in contributing to
+          opensource and other projects. We give you a chance to increase your
+          collaboration skills.
         </p>
       </div>
       <!-- End: Intro -->
