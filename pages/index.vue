@@ -6,8 +6,8 @@
       <div class="intro">
         <h2 class="text-center">About us</h2>
         <p class="text-center">
-          We are about the Kenyan techie interested in contributing to
-          opensource and other projects. We give you a chance to increase your
+          We are about the Kenyan techy interested in contributing to opensource
+          and other projects. We give you a chance to increase your
           collaboration skills.
         </p>
       </div>
@@ -16,48 +16,33 @@
       <div class="row justify-content-center features">
         <div class="col-sm-6 col-md-5 col-lg-4 item">
           <div class="box">
-            <h3 data-aos="fade" class="name">Works everywhere</h3>
+            <h3 class="name">Great Teams</h3>
             <p class="description">
-              Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus.
-              Praesent aliquam in tellus eu.
+              Get to work with great teams with experience in deveveloper
+              operations
             </p>
           </div>
         </div>
         <div class="col-sm-6 col-md-5 col-lg-4 item">
           <div class="box">
-            <h3 data-aos="fade" class="name">Always available</h3>
+            <h3 class="name">Improve your Skills</h3>
             <p class="description">
-              Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus.
-              Praesent aliquam in tellus eu.
+              Looking to get challenged? Join the most talented devs in the 254
+              and flex your skills
             </p>
           </div>
         </div>
         <div class="col-sm-6 col-md-5 col-lg-4 item">
           <div class="box">
-            <h3 data-aos="fade" class="name">Customizable</h3>
+            <h3 class="name">Accelerate your career</h3>
             <p class="description">
-              Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus.
-              Praesent aliquam in tellus eu.
+              Want to get discovered? Here is an opportunity to let your commits
+              market you.
             </p>
           </div>
         </div>
       </div>
       <!-- End: Features -->
-    </div>
-    <!-- End: Features Boxed -->
-    <!-- Start: Features Boxed -->
-    <div class="features-boxed" style="background-color: rgb(255,255,255);">
-      <div class="container" style="background-color: #ffffff;">
-        <!-- Start: Intro -->
-        <div class="intro">
-          <h2 class="text-center">About us</h2>
-          <p class="text-center">
-            Nunc luctus in metus eget fringilla. Aliquam sed justo ligula.
-            Vestibulum nibh erat, pellentesque ut laoreet vitae.
-          </p>
-        </div>
-        <!-- End: Intro -->
-      </div>
     </div>
   </div>
   <!-- End: Features Boxed -->

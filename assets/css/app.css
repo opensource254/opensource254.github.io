@@ -2,6 +2,10 @@
     border-radius: 0;
 }
 
+.font-lobster {
+    font-family: 'Lobster', cursive;
+}
+
 .btn-primary.focus,
 .btn-primary:focus {
     box-shadow: 0 0 0 0 #048f83 !important;
@@ -233,12 +237,12 @@ footer {
 .footer-navigation h3 {
     margin: 0 0 20px;
     font: 400 36px "Cookie", cursive;
-    color: #fff;
+    color: rgb(129, 129, 129);
 }
 
 .footer-navigation h3 a {
     text-decoration: none;
-    color: #fff;
+    color: #585757;
 }
 
 .footer-navigation h3 span {
