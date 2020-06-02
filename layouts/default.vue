@@ -15,6 +15,7 @@
                 role="button"
                 href="#"
                 style="filter: saturate(116%);"
+                @click="showJoin = !showJoin"
                 >join us</a
               ></span
             >
@@ -24,6 +25,7 @@
     </div>
     <!-- End: Navigation with Button -->
     <nuxt />
+    <JoinModal :show="showJoin" />
     <footer>
       <div class="row">
         <div class="col-sm-6 col-md-4 footer-navigation">
@@ -76,3 +78,16 @@
     </footer>
   </main>
 </template>
+<script>
+import JoinModal from '@/components/Modal'
+export default {
+  components: {
+    JoinModal
+  },
+  data() {
+    return {
+      showJoin: false
+    }
+  }
+}
+</script>
