@@ -1,0 +1,334 @@
+.plat {
+    border-radius: 0;
+}
+
+.font-lobster {
+    font-family: 'Lobster', cursive;
+}
+
+.btn-primary.focus,
+.btn-primary:focus {
+    box-shadow: 0 0 0 0 #048f83 !important;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #016090;
+    border-color: #016090;
+}
+
+.btn.btn-primary {
+    background-color: #048f83 !important;
+    border-color: #048f83 !important;
+}
+
+span {
+    font-style: inherit;
+    font-weight: inherit;
+}
+
+.features-boxed {
+    color: #313437;
+    background-color: #eef4f7;
+}
+
+.features-boxed p {
+    color: #7d8285;
+}
+
+.features-boxed h2 {
+    font-weight: 700;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    color: inherit;
+}
+
+@media (max-width: 767px) {
+    .features-boxed h2 {
+        margin-bottom: 25px;
+        padding-top: 25px;
+        font-size: 24px;
+    }
+}
+
+.features-boxed .intro {
+    font-size: 16px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.features-boxed .intro p {
+    margin-bottom: 0;
+}
+
+.features-boxed .features {
+    padding: 50px 0;
+}
+
+.features-boxed .item {
+    text-align: center;
+}
+
+.features-boxed .item .box {
+    text-align: center;
+    padding: 30px;
+    background-color: #fff;
+    margin-bottom: 30px;
+}
+
+.features-boxed .item .icon {
+    font-size: 60px;
+    color: #12958a;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+.features-boxed .item .name {
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 8px;
+    margin-top: 0;
+    color: inherit;
+}
+
+.features-boxed .item .description {
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+#brand-logo {
+    font-size: 34px;
+}
+
+#app-navbar {
+    background: linear-gradient(120deg, #00e4d0, #5983e8);
+}
+
+.navigation-clean-button {
+    background: #fff;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    color: #333;
+    border-radius: 0;
+    box-shadow: none;
+    border: none;
+    margin-bottom: 0;
+}
+
+@media (min-width: 768px) {
+    .navigation-clean-button {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+}
+
+.navigation-clean-button .navbar-brand {
+    font-weight: 700;
+    color: inherit;
+}
+
+.navigation-clean-button .navbar-brand:hover {
+    color: #222;
+}
+
+.navigation-clean-button .navbar-toggler {
+    border-color: #ddd;
+    color: #888;
+}
+
+.navigation-clean-button .navbar-toggler:focus,
+.navigation-clean-button .navbar-toggler:hover {
+    background: 0 0;
+}
+
+.navigation-clean-button .form-inline,
+.navigation-clean-button .navbar-collapse {
+    border-top-color: #ddd;
+}
+
+.navigation-clean-button .navbar-nav a.active,
+.navigation-clean-button .navbar-nav > .show > a {
+    background: 0 0;
+    box-shadow: none;
+}
+
+.navigation-clean-button.navbar-light .navbar-nav a.active,
+.navigation-clean-button.navbar-light .navbar-nav a.active:focus,
+.navigation-clean-button.navbar-light .navbar-nav a.active:hover {
+    color: #8f8f8f;
+    box-shadow: none;
+    background: 0 0;
+    pointer-events: none;
+}
+
+.navigation-clean-button.navbar .navbar-nav .nav-link {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.navigation-clean-button.navbar-light .navbar-nav .nav-link {
+    color: #465765;
+}
+
+.navigation-clean-button.navbar-light .navbar-nav .nav-link:focus,
+.navigation-clean-button.navbar-light .navbar-nav .nav-link:hover {
+    color: #37434d !important;
+    background-color: transparent;
+}
+
+.navigation-clean-button .navbar-nav > li > .dropdown-menu {
+    margin-top: -5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+.navigation-clean-button .dropdown-menu .dropdown-item,
+.navigation-clean-button .dropdown-menu .dropdown-item:focus {
+    line-height: 2;
+    font-size: 14px;
+    color: #37434d;
+}
+
+.navigation-clean-button .dropdown-menu .dropdown-item:focus,
+.navigation-clean-button .dropdown-menu .dropdown-item:hover {
+    background: #eee;
+    color: inherit;
+}
+
+.navigation-clean-button .actions .login {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: #465765;
+}
+
+.navigation-clean-button .navbar-text .action-button,
+.navigation-clean-button .navbar-text .action-button:active,
+.navigation-clean-button .navbar-text .action-button:hover {
+    background: #56c6c6;
+    border-radius: 20px;
+    color: #fff;
+    box-shadow: none;
+    border: none;
+    text-shadow: none;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.25s;
+    font-size: inherit;
+}
+
+.navigation-clean-button .navbar-text .action-button:hover {
+    background: #66d7d7;
+}
+
+footer {
+    background-color: #292c2f;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font: 700 16px sans-serif;
+    padding: 55px 50px;
+    margin-top: 80px;
+    bottom: 0;
+    color: #fff;
+}
+
+.footer-navigation h3 {
+    margin: 0 0 20px;
+    font: 400 36px "Cookie", cursive;
+    color: rgb(129, 129, 129);
+}
+
+.footer-navigation h3 a {
+    text-decoration: none;
+    color: #585757;
+}
+
+.footer-navigation h3 span {
+    color: #5383d3;
+}
+
+.footer-navigation p.links a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-navigation p.company-name {
+    color: #8f9296;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+@media (max-width: 767px) {
+    .footer-contacts {
+        margin: 30px 0;
+    }
+}
+
+.footer-contacts p {
+    display: inline-block;
+    color: #fff;
+    vertical-align: middle;
+}
+
+.footer-contacts p a {
+    color: #5383d3;
+    text-decoration: none;
+}
+
+.fa.footer-contacts-icon {
+    background-color: #33383b;
+    color: #fff;
+    font-size: 18px;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 38px;
+    margin: 10px 15px 10px 0;
+}
+
+span.new-line-span {
+    display: block;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 2;
+}
+
+.footer-about h4 {
+    display: block;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.footer-about p {
+    line-height: 20px;
+    color: #92999f;
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0;
+}
+
+div.social-links {
+    margin-top: 20px;
+    color: #fff;
+}
+
+.social-links a {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    background-color: #33383b;
+    border-radius: 2px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    line-height: 35px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}

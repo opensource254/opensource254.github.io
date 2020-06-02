@@ -1,74 +1,49 @@
 <template>
-  <div class="container">
-    <div>
-      <b-img
-        height="300"
-        width="300"
-        src="/icon.png"
-        class="mx-auto img-fluid"
-      ></b-img>
-      <h1 class="title">
-        open<span class="green-color">source</span><span class="red">254</span>
-      </h1>
-      <div class="links">
-        <a
-          href="https://github.com/Opensource254"
-          target="_blank"
-          class="btn btn-outline-primary btn-lg"
-          >Github</a
-        >
-        <a
-          href="https://join.slack.com/t/opensource254/shared_invite/zt-ehsd5mb6-Dm5QVTkErOd6UvbaAYGDiw"
-          target="_blank"
-          class="btn btn-outline-secondary btn-lg"
-          >Slack</a
-        >
+  <!-- Start: Features Boxed -->
+  <div class="features-boxed">
+    <div class="container">
+      <!-- Start: Intro -->
+      <div class="intro">
+        <h2 class="text-center">About us</h2>
+        <p class="text-center">
+          We are about the Kenyan techy interested in contributing to opensource
+          and other projects. We give you a chance to increase your
+          collaboration skills.
+        </p>
       </div>
+      <!-- End: Intro -->
+      <!-- Start: Features -->
+      <div class="row justify-content-center features">
+        <div class="col-sm-6 col-md-5 col-lg-4 item">
+          <div class="box">
+            <h3 class="name">Great Teams</h3>
+            <p class="description">
+              Get to work with great teams with experience in deveveloper
+              operations
+            </p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-5 col-lg-4 item">
+          <div class="box">
+            <h3 class="name">Improve your Skills</h3>
+            <p class="description">
+              Looking to get challenged? Join the most talented devs in the 254
+              and flex your skills
+            </p>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-5 col-lg-4 item">
+          <div class="box">
+            <h3 class="name">Accelerate your career</h3>
+            <p class="description">
+              Want to get discovered? Here is an opportunity to let your commits
+              market you.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- End: Features -->
     </div>
   </div>
+  <!-- End: Features Boxed -->
 </template>
-
-<script>
-export default {
-  components: {}
-}
-</script>
-
-<style>
-.red {
-  color: #ff0000;
-}
-.green-color {
-  color: #00ff4c;
-}
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.title {
-  font-family: 'Ubuntu', 'Quicksand', 'Source Sans Pro', -apple-system,
-    BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 500;
-  font-size: 45px;
-  color: #080808;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
-}
-</style>
