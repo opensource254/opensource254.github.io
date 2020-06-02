@@ -2,20 +2,13 @@
   <main>
     <div>
       <nav
-        class="navbar navbar-light navbar-expand-md sticky-top navigation-clean-button"
+        class="navbar navbar-light navbar-expand-sm sticky-top navigation-clean-button"
       >
         <div class="container">
           <nuxt-link to="/" class="navbar-brand font-lobster"
             >Opensource254</nuxt-link
-          ><button
-            class="navbar-toggler"
-            data-toggle="collapse"
-            data-target="#navcol-1"
           >
-            <span class="sr-only">Toggle navigation</span
-            ><span class="navbar-toggler-icon"></span>
-          </button>
-          <div id="navcol-1" class="collapse navbar-collapse">
+          <div id="navcol-1">
             <span class="navbar-text actions ml-auto">
               <a
                 class="btn btn-light text-truncate shadow-sm pulse animated infinite action-button"
