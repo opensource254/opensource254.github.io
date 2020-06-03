@@ -18,7 +18,7 @@
           <div class="box">
             <h3 class="name">Great Teams</h3>
             <p class="description">
-              Get to work with great teams with experience in deveveloper
+              Get to work with great teams with experience in developer
               operations
             </p>
           </div>
