@@ -1,6 +1,7 @@
 ![Node.js CI](https://github.com/Opensource-254/Opensource-254.github.io/workflows/Node.js%20CI/badge.svg)   [![Gitter](https://badges.gitter.im/opensource-254/community.svg)](https://gitter.im/opensource-254/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/opensource254/Opensource254-Web)
-![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/opensource254/opensource254.github.io?include_prereleases)
+![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/opensource254/opensource254.github.io?include_prereleases&label=pre%20release)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/opensource254/opensource254.github.io?label=stable%20release)
 # opensource254
 
 > official website for opensource254
