@@ -1,6 +1,9 @@
 <template>
+
+
   <!-- Start: Features Boxed -->
   <div class="features-boxed">
+
     <div class="container">
       <!-- Start: Intro -->
       <div class="intro">
@@ -16,6 +19,7 @@
       <div class="row justify-content-center features">
         <div class="col-sm-6 col-md-5 col-lg-4 item">
           <div class="box">
+            <img src="../assets/img/team.png" alt="team" height="200" />
             <h3 class="name">Great Teams</h3>
             <p class="description">
               Get to work with great teams with experience in developer
@@ -25,6 +29,7 @@
         </div>
         <div class="col-sm-6 col-md-5 col-lg-4 item">
           <div class="box">
+            <img src="../assets/img/skill.png" alt="team" height="200" />
             <h3 class="name">Improve your Skills</h3>
             <p class="description">
               Looking to get challenged? Join the most talented devs in the 254
@@ -34,6 +39,7 @@
         </div>
         <div class="col-sm-6 col-md-5 col-lg-4 item">
           <div class="box">
+            <img src="../assets/img/career.png" alt="team" height="200" />
             <h3 class="name">Accelerate your career</h3>
             <p class="description">
               Want to get discovered? Here is an opportunity to let your commits
@@ -46,4 +52,5 @@
     </div>
   </div>
   <!-- End: Features Boxed -->
+
 </template>
