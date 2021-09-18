@@ -8,7 +8,7 @@
     >
     <a
       target="_blank"
-      href="https://join.slack.com/t/opensource254/shared_invite/zt-ehsd5mb6-Dm5QVTkErOd6UvbaAYGDiw"
+      href="https://join.slack.com/t/opensource254/shared_invite/zt-pj6zdek2-eJdkJbBdFaAOvGZEePk8Xw"
       class="btn btn-primary btn-block text-white"
       >On Slack</a
     >
