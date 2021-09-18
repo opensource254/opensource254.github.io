@@ -50,7 +50,7 @@
             ></i>
             <p>
               <a href="mailto:friends@opensource254.co.ke" target="_blank"
-                >friends@opensource254.co.ke</a
+                >info@opensource254.co.ke</a
               >
             </p>
           </div>
