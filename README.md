@@ -38,4 +38,4 @@ $ npm run generate
     - An API for all the historical data of Covid 19 📉
     - ExpressJS 📉
     
-*More aswesome stuff coming soon join us on [Slack](https://join.slack.com/t/opensource254/shared_invite/zt-dfkd2h0m-zWzQn8WSeYoUICl3GNOncw) today*
+*More awesome stuff coming soon join us on [Slack](https://join.slack.com/t/opensource254/shared_invite/zt-dfkd2h0m-zWzQn8WSeYoUICl3GNOncw) today*
