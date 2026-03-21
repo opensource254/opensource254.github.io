@@ -24,8 +24,8 @@
       </nav>
     </div>
     <!-- End: Navigation with Button -->
-    <nuxt />
-    <JoinModal :show="showJoin" />
+    <slot />
+    <JoinModal :show="showJoin" @update:show="showJoin = $event" />
     <footer>
       <div class="row">
         <div class="col-sm-6 col-md-4 footer-navigation">

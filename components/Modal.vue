@@ -1,5 +1,11 @@
 <template>
-  <b-modal v-model="show" hide-header hide-footer centered>
+  <BModal
+    :model-value="show"
+    hide-header
+    hide-footer
+    centered
+    @update:model-value="$emit('update:show', $event)"
+  >
     <a
       target="_blank"
       href="https://opensource254.github.io/guidelines/"
@@ -12,10 +18,11 @@
       class="btn btn-primary btn-block text-white"
       >On Slack</a
     >
-  </b-modal>
+  </BModal>
 </template>
 <script>
 export default {
+  emits: ['update:show'],
   props: {
     show: {
       type: Boolean,
