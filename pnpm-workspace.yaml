@@ -1,8 +1,0 @@
-ignoredBuiltDependencies:
-  - node-sass
-
-onlyBuiltDependencies:
-  - '@parcel/watcher'
-  - bootstrap-vue-next
-  - esbuild
-  - unrs-resolver
