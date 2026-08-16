@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-if it is a critical vulnarability, please email <info@opensource254.co.ke> or <stanmasinde@gmail.com>
+if it is a critical vulnerability, please email <info@opensource254.co.ke>
