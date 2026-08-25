@@ -21,7 +21,7 @@
     "bootstrap": "^5.3.8",
     "bootstrap-vue-next": "^0.44.0",
     "eslint": "^10.1.0",
-    "nuxt": "^4.4.2"
+    "nuxt": "^4.4.7"
   },
   "devDependencies": {
     "eslint-config-prettier": "^10.1.8",
